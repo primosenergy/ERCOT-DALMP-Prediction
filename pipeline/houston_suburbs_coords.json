@@ -1,0 +1,22 @@
+{
+    "The Woodlands, TX": {
+        "lat": 30.1658,
+        "lon": -95.4613
+    },
+    "Katy, TX": {
+        "lat": 29.7858,
+        "lon": -95.8245
+    },
+    "Friendswood, TX": {
+        "lat": 29.5294,
+        "lon": -95.201
+    },
+    "Baytown, TX": {
+        "lat": 29.7355,
+        "lon": -94.9774
+    },
+    "Houston, TX": {
+        "lat": 29.7604,
+        "lon": -95.3698
+    }
+}

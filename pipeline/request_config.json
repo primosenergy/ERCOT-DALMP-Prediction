@@ -1,0 +1,11 @@
+{
+  "baseUrl": "https://edfercot.poweroptix.com:1234/mds/",
+  "session_endpoint": "/InitiateSession",
+  "default_headers": {
+    "Cache-Control": "no-cache",
+    "User-Agent": "MyClient/1.0",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Accept-Encoding": "gzip, deflate, br"
+  }
+}
