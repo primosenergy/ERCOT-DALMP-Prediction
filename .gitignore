@@ -11,3 +11,4 @@ pipeline/jobs*
 pipeline/scrape*
 modeling/evaluate.py
 ercot_app/app_bak*
+.env
