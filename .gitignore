@@ -4,3 +4,10 @@ __pycache__/
 .DS_Store
 *.log
 ProjectMain/db/data.duckdb
+bootstrap_scaffold.py
+populate_scaffold.py
+print_tree.py
+pipeline/jobs*
+pipeline/scrape*
+modeling/evaluate.py
+ercot_app/app_bak*
